@@ -1,0 +1,14 @@
+C:\Users\ec\source\repos\Baitap\Baitap\bin\Debug\net8.0\Baitap.exe
+C:\Users\ec\source\repos\Baitap\Baitap\bin\Debug\net8.0\Baitap.deps.json
+C:\Users\ec\source\repos\Baitap\Baitap\bin\Debug\net8.0\Baitap.runtimeconfig.json
+C:\Users\ec\source\repos\Baitap\Baitap\bin\Debug\net8.0\Baitap.dll
+C:\Users\ec\source\repos\Baitap\Baitap\bin\Debug\net8.0\Baitap.pdb
+C:\Users\ec\source\repos\Baitap\Baitap\obj\Debug\net8.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ec\source\repos\Baitap\Baitap\obj\Debug\net8.0\Baitap.AssemblyInfoInputs.cache
+C:\Users\ec\source\repos\Baitap\Baitap\obj\Debug\net8.0\Baitap.AssemblyInfo.cs
+C:\Users\ec\source\repos\Baitap\Baitap\obj\Debug\net8.0\Baitap.csproj.CoreCompileInputs.cache
+C:\Users\ec\source\repos\Baitap\Baitap\obj\Debug\net8.0\Baitap.dll
+C:\Users\ec\source\repos\Baitap\Baitap\obj\Debug\net8.0\refint\Baitap.dll
+C:\Users\ec\source\repos\Baitap\Baitap\obj\Debug\net8.0\Baitap.pdb
+C:\Users\ec\source\repos\Baitap\Baitap\obj\Debug\net8.0\Baitap.genruntimeconfig.cache
+C:\Users\ec\source\repos\Baitap\Baitap\obj\Debug\net8.0\ref\Baitap.dll
